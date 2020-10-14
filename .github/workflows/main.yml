@@ -32,7 +32,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-        name: E2E on Chrome
+      - name: E2E on Chrome
         on: [push]
         jobs:
           cypress-run:
