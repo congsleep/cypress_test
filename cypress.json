@@ -1,4 +1,7 @@
 {
   "projectId": "8cddia",
-  "baseUrl": "https://testing.vieon.vn"
+  "baseUrl": "https://vieon.vn",
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "waitForAnimations": true
 }
